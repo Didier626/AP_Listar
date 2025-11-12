@@ -1,4 +1,4 @@
-package com.example.ap_listar_11_11_2025;
+package com.example.ap_listar;
 
 import android.content.ContentValues;
 import android.content.Context;
